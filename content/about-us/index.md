@@ -115,7 +115,7 @@ We’re happy to answer any questions and schedule your RV or motorhome repair.
   title="Transit Sales Manager"
   company="El Dorado Bus Sales"
   link=""
-  image="images/about/dan-Eldorado-bus-sales.png"
+  image="images/about/eldorado-bus-sales.png"
   imageAlt=""
   imageCaption=""
   frontTextColor="blue"

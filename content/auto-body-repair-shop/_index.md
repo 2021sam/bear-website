@@ -35,7 +35,7 @@ From **rust removal** to **refinishing**, we restore classics and work vehicles.
 ---
 
 ## Related Services
-- [Media Sandblasting](/media-sandblasting/)  
+- [Abrasive Blasting (Media Blasting](/metal-restoration/abrasive-blasting/)  
 - [Commercial Truck Painting & Coatings](/commercial-truck-repair/)  
 - [Insurance Repairs](/insurance/)  
 

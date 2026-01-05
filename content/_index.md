@@ -46,7 +46,7 @@ professionally.
 
   {{< flipcard front="images/welcome/decals-1.png" back="images/welcome/learnMore.png" title="Vehicle Decals" link="/vehicle-markings/" >}}
 
-  {{< flipcard front="images/welcome/stencilPainting.png" back="images/welcome/learnMore.png" title="Stencil Painting" link="/vehicle-markings" >}}
+  {{< flipcard front="images/welcome/stencilPainting.png" back="images/welcome/learnMore.png" title="Stencil Painting" link="/vehicle-markings/" >}}
 </div> 
 
 
@@ -71,7 +71,7 @@ exceed your expectations.
 <div class="flipcard-grid">
   {{< flipcard front="images/welcome/icar.png" back="images/welcome/learnMore.png" title="I-Car Certified" link="https://www.i-car.com/" >}}
 
-  {{< flipcard front="images/welcome/BarLicensed2-1.png" back="images/welcome/learnMore.png" title="BAR Licensed" link="/vinyl-decals/" >}}
+  {{< flipcard front="images/welcome/BarLicensed2-1.png" back="images/welcome/learnMore.png" title="BAR Licensed" link="https://www.bar.ca.gov" >}}
 
   {{< flipcard front="images/welcome/mitchell.png" back="images/welcome/learnMore.png" title="Mitchell Estimating" link="https://www.mitchell.com/solutions/auto-physical-damage/repair-management/repaircenter" >}}
 </div>
