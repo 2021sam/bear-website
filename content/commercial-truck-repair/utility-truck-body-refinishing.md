@@ -79,4 +79,4 @@ Common applications: **fire trucks, concrete pumpers, concrete mixers, refuse/ga
 
 Whether you manage a **single concrete mixer** or a **fleet of refuse trucks**, **{{< brand >}}** provides **sandblasting, refinishing, and protective coating services** that extend service life and maintain fleet appearance.  
 
-👉 [Contact us today](/contact/) to schedule a **utility truck body refinishing estimate** and learn why contractors and municipalities across the **San Francisco Bay Area** trust **{{< brand >}}** for reliable, long-lasting finishes.  
+👉 [Contact us today](/contact-us/) to schedule a **utility truck body refinishing estimate** and learn why contractors and municipalities across the **San Francisco Bay Area** trust **{{< brand >}}** for reliable, long-lasting finishes.  

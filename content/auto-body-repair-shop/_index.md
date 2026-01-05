@@ -4,6 +4,7 @@ description = "Collision repair, frame straightening, restoration prep, and refi
 layout = "swiper-showcase-wrap"
 data = "truck-service"
 # aliases = ["/auto-body/"]  # optional safety alias
+# content/auto-body-repair-shop/_index.md
 +++
 
 **BEAR Collision Center** is a full-service **auto body repair shop** for **passenger vehicles, vans, and light-duty pickups**. We handle everything from structural repairs to paint and refinishing—with clean, predictable communication start to finish.
@@ -35,7 +36,7 @@ From **rust removal** to **refinishing**, we restore classics and work vehicles.
 
 ## Related Services
 - [Media Sandblasting](/media-sandblasting/)  
-- [Painting](/painting/)  
+- [Commercial Truck Painting & Coatings](/commercial-truck-repair/)  
 - [Insurance Repairs](/insurance/)  
 
 ---

@@ -25,7 +25,7 @@ trailers, Class A commercial trucks, RVs, and cars throughout the San Francisco 
 
   {{< flipcard front="images/welcome/circle_largeTruck.png" back="images/welcome/learnMore.png" title="Truck Repair" link="/commercial-truck-repair/" >}}
 
-  {{< flipcard front="images/welcome/circle_car.png" back="images/welcome/learnMore.png" title="Car Repair" link="/car-repair/" >}}
+  {{< flipcard front="images/welcome/circle_car.png" back="images/welcome/learnMore.png" title="Car Repair" link="/auto-body-repair-shop/" >}}
 </div>
 
 
@@ -36,17 +36,17 @@ sandblasting or welding our team is ready to to get the job done quickly and
 professionally.
 
 <div class="flipcard-grid">
-  {{< flipcard front="images/welcome/sandblasting-Icon.png" back="images/welcome/learnMore.png" title="Sandblasting" link="/media-sandblasting/" >}}
+  {{< flipcard front="images/welcome/sandblasting-Icon.png" back="images/welcome/learnMore.png" title="Sandblasting" link="/metal-restoration/abrasive-blasting/" >}}
 
-  {{< flipcard front="images/welcome/WELDING.png" back="images/welcome/learnMore.png" title="Welding" link="/welding/" >}}
+  {{< flipcard front="images/welcome/WELDING.png" back="images/welcome/learnMore.png" title="Welding" link="/metal-restoration/" >}}
 
-  {{< flipcard front="images/welcome/frameRepair.png" back="images/welcome/learnMore.png" title="Frame Repair" link="/frame-repair/" >}}
+  {{< flipcard front="images/welcome/frameRepair.png" back="images/welcome/learnMore.png" title="Frame Repair" link="/auto-body-repair-shop/frame-repair/" >}}
 
-  {{< flipcard front="images/welcome/painting.png" back="images/welcome/learnMore.png" title="Painting" link="/painting/" >}}
+  {{< flipcard front="images/welcome/painting.png" back="images/welcome/learnMore.png" title="Painting" link="/auto-body-repair-shop/" >}}
 
-  {{< flipcard front="images/welcome/decals-1.png" back="images/welcome/learnMore.png" title="Vehicle Decals" link="/vinyl-decals/" >}}
+  {{< flipcard front="images/welcome/decals-1.png" back="images/welcome/learnMore.png" title="Vehicle Decals" link="/vehicle-markings/" >}}
 
-  {{< flipcard front="images/welcome/stencilPainting.png" back="images/welcome/learnMore.png" title="Stencil Painting" link="/stencil-painting" >}}
+  {{< flipcard front="images/welcome/stencilPainting.png" back="images/welcome/learnMore.png" title="Stencil Painting" link="/vehicle-markings" >}}
 </div> 
 
 

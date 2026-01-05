@@ -81,4 +81,4 @@ Our technicians are trained to handle Class 4–8 trucks and utility vehicles, u
 {{< showcase-left index="6" >}}
 
 **Need a repair estimate or want to schedule service?**  
-[Contact us today](/contact/) and see why fleet managers and operators across the Bay Area trust BEAR Collision Center for dependable commercial truck repairs.
+[Contact us today](/contact-us/) and see why fleet managers and operators across the Bay Area trust BEAR Collision Center for dependable commercial truck repairs.

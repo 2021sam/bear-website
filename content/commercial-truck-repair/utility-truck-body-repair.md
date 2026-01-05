@@ -59,4 +59,4 @@ We provide **abrasive blasting and prep services** for repainting, corrosion con
 
 Whether you operate a **single fire truck, concrete mixer, or refuse collection truck** — or manage an entire **municipal sanitation fleet** — **{{< brand >}}** provides durable, professional repairs that keep your vehicles working hard.  
 
-👉 [Contact us today](/contact/) to schedule a **utility truck body repair estimate** and learn why contractors and municipalities across the **San Francisco Bay Area** trust **{{< brand >}}** for reliable results.  
+👉 [Contact us today](/contact-us/) to schedule a **utility truck body repair estimate** and learn why contractors and municipalities across the **San Francisco Bay Area** trust **{{< brand >}}** for reliable results.  
